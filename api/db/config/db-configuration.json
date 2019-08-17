@@ -1,0 +1,13 @@
+{
+  "Development": {
+    "url": "mongodb://127.0.0.1:27017/test",
+    "options": {
+      "useNewUrlParser": true,
+      "_comment": "Use this keys to set credentials. user: 'username', pass: 'password'"
+    }
+  },
+  "QA": {},
+  "Staging": {},
+  "UAT": {},
+  "Production": {}
+}
